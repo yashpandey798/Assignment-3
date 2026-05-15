@@ -153,7 +153,7 @@ g++ -o InventoryFilter Main.cpp InventoryFilter.cpp InventoryItem.cpp JsonParser
 
 ## Output Screenshots
 
-![Q2 Output 1](Screenshot/assignment_3_Q2_output_1.png)
+![Q2 Output 1](Screenshot/assignment 3_Q2_output_1.png)
 ![Q2 Output 2](Screenshot/Assignment_3_Q2_output_2.png)
 
 ---
