@@ -220,4 +220,4 @@ python main.py
 
 ## Output Screenshots
 
-![Q3 Output](Screenshot/Assignment_3_question_3_output.png)
+![Q3 Output](Screenshot/Assignment 3_question_3_output.png)
